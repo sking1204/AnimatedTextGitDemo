@@ -3,11 +3,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:teal;
+    background-color:olive;
 }
 
 h1{
-    font-size: 13 rem;
+    font-size: 20 rem;
     font-family: fantasy;
 }
 
